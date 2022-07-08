@@ -22,21 +22,21 @@ I am motivated by a workplace in which my problem <b>solving skills and creativi
 
 <h2 style="color: #FEC601">ℹ️ &nbsp;Github Info</h2>
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
+  <summary><b>🔎 Github Profile Details</b></summary><br><br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghadje&theme=github_dark" alt="ghadje" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary><br><br>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghadje&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ghadje" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadje&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="ghadje" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghadje&hide_border=true&count_private=true&show_icons=true&theme=highcontrast&background=0D1117" alt="ghadje" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadje&show_icons=true&locale=en&layout=compact&hide_border=true&theme=highcontrast&background=0D1117" alt="ghadje" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary><br><br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="ghadje" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="ghadje" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary><br><br>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ghadje&bg_color=0D1117&color=FEC601&line=FEC601&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
- <summary><b>🏆 Github Achievements</b></summary><br><br>
-<p align="center"> <a href="https://github.com/ghadje"><img src="https://github-profile-trophy.vercel.app/?username=ghadje&margin-w=5&theme=radical" alt="ghadje" /></a> </p>
+<!-- <summary><b>🏆 Github Achievements</b></summary><br><br>
+<p align="center"> <a href="https://github.com/ghadje"><img src="https://github-profile-trophy.vercel.app/?username=ghadje&margin-w=5&theme=radical&background=FEC601" alt="ghadje" /></a> </p>-->
 
 <br>
