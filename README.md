@@ -32,8 +32,8 @@ I am motivated by a workplace in which my problem <b>solving skills and creativi
  <summary><b>🔥 Github Streaks</b></summary><br><br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="ghadje" /></p>
 
-<!--<summary><b>📊 Github Contribution Graph</b></summary><br><br>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ghadje&bg_color=0D1117&color=FEC601&line=FEC601&point=FFFFFF&hide_border=true&" /></a></p> -->
+<summary><b>📊 Github Contribution Graph</b></summary><br><br>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ghadje&bg_color=0D1117&color=FEC601&line=FEC601&point=FFFFFF&hide_border=true&" /></a></p> 
 <!-- </details>
 <details>    -->
 <!-- <summary><b>🏆 Github Achievements</b></summary><br><br>
