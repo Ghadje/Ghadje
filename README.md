@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! My name is Oussama (call me ghadje) and I'm an Talented Front-End Engineer, from Algeria</h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! My name is Oussama (call me ghadje) and I'm a Talented Front-End Engineer, from Algeria</h2>
 
 ## About me:
 
