@@ -48,12 +48,12 @@ I am motivated by a workplace in which my problem <b>solving skills and creativi
   <summary><b>🔎 Github Profile Details</b></summary><br><br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghadje&theme=github_dark" alt="ghadje" align = "center"/></p>
 
-  <summary><b>⚡ Github Stats</b></summary><br><br>
+  <!-- <summary><b>⚡ Github Stats</b></summary><br><br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghadje&hide_border=true&count_private=true&show_icons=true&theme=highcontrast&background=0D1117" alt="ghadje" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadje&show_icons=true&locale=en&layout=compact&hide_border=true&theme=highcontrast&background=0D1117" alt="ghadje" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary><br><br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="Enable to load the Streaks summary" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="Enable to load the Streaks summary" /></p> -->
 
 <!-- <summary><b>📊 Github Contribution Graph</b></summary><br><br>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ghadje&bg_color=0D1117&color=FEC601&line=FEC601&point=FFFFFF&hide_border=true&" /></a></p> -->
