@@ -1,23 +1,26 @@
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! I'm Oussama (aka Ghadje), a Talented Front-End Engineer from Algeria</h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! I'm Oussama (aka Ghadje), a Senior Front-End Engineer from Algeria</h2>
 
 <!-- ### About Me -->
 <p>
-  I'm a passionate <b>Front-End Engineer</b> with expertise in building modern, scalable, and user-friendly web and mobile applications. I specialize in <b>React</b>, <b>Flutter</b>, and <b>Next.js</b>, and I'm always exploring new technologies to stay at the cutting edge of development. I thrive in collaborative environments and enjoy solving complex problems with creative solutions.
+  I'm a seasoned <b>Front-End Engineer</b> with over 5 years of experience building scalable, user-centric web and mobile applications. I specialize in <b>React</b>, <b>Flutter</b>, and <b>Next.js</b>, and I have a proven track record of delivering high-quality solutions for startups and enterprises. I excel in leading development teams, architecting robust systems, and solving complex problems with innovative approaches.
 </p>
 
 <!-- ### Connect with Me -->
 <div align="left">
   <a href="[Your LinkedIn URL]">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="[Your Gmail URL]">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
   <a href="[Your Instagram URL]">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="[Your YouTube URL]">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />
+  </a>
+  <a href="[Your Fiverr URL]">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35" alt="Fiverr" />
   </a>
 </div>
 
@@ -30,33 +33,56 @@
 
 ---
 
-### 🥇 Specialized In
+### 🥇 Core Expertise
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+- **[Glitzup](https://github.com/ghadje/glitzup)**: A scalable e-commerce platform enabling users to create and manage online stores.
+- **[Cloc](https://github.com/ghadje/cloc)**: An educational app/game designed for Algerian high school students, combining learning with gamification.
+- **[Chifago](https://github.com/ghadje/chifago)**: A platform for booking home healthcare services, built with Flutter and Laravel.
+- **[Dariserve](https://github.com/ghadje/dariserve)**: A startup project I built from scratch, offering [brief description of Dariserve]. This project involved full-stack development, from UI/UX design to deployment.
+
+---
+
+### 🔧 Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghadje&hide_border=true&count_private=true&show_icons=true&theme=highcontrast&background=0D1117" alt="ghadje" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadje&show_icons=true&locale=en&layout=compact&hide_border=true&theme=highcontrast&background=0D1117" alt="ghadje" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghadje&hide_border=true&count_private=true&show_icons=true&theme=highcontrast&background=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadje&show_icons=true&locale=en&layout=compact&hide_border=true&theme=highcontrast&background=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="Enable to load the Streaks summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,31 +90,9 @@
 ### 🏆 GitHub Achievements
 <p align="center">
   <a href="https://github.com/ghadje">
-    <img src="https://github-profile-trophy.vercel.app/?username=ghadje&margin-w=5&theme=radical&background=FEC601" alt="ghadje" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ghadje&margin-w=5&theme=radical&background=FEC601" alt="GitHub Achievements" />
   </a>
 </p>
-
----
-
-### 🚀 Featured Projects
-- **[Glitzup](https://github.com/ghadje/glitzup)**: An e-commerce platform for creating online stores.
-- **[Cloc](https://github.com/ghadje/cloc)**: An educational app/game for Algerian high school students.
-- **[Chifago](https://github.com/ghadje/chifago)**: A platform for booking home healthcare services.
-
----
-
-### 🔧 Tools & Technologies I Use
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-</div>
 
 ---
 
@@ -100,5 +104,5 @@
 ---
 
 ### 📫 Let's Collaborate!
-If you're interested in working together or just want to chat about tech, feel free to reach out!  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 [Email](mailto:youremail@example.com)
+I'm always open to discussing new opportunities, collaborations, or tech innovations. Feel free to reach out!  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 [Email](mailto:youremail@example.com) | 💼 [Fiverr](https://fiverr.com/yourprofile)
