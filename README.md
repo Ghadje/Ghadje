@@ -94,21 +94,6 @@
 - **[Dariserve](https://github.com/ghadje/dariserve)**: A startup project I built for a client from scratch, Dariserve is a mobile app designed to connect users with workers for various services. The app includes features like **real-time chat**, **advanced search**, **profiles**, and **smooth animations** for an exceptional user experience. I also developed a **comprehensive dashboard** for managing the platform and a **landing website** to promote the app. This project involved full-stack development, from **UI/UX design** to **deployment**.
 ---
 
-### 🔧 Tools & Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-</div>
-
----
-
 <!-- ### 📈 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghadje&hide_border=true&count_private=true&show_icons=true&theme=highcontrast&background=0D1117" alt="GitHub Stats" />
