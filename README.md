@@ -83,7 +83,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
-`
 
 ---
 
@@ -106,12 +105,12 @@
 
 ---
 
-### 🏆 GitHub Achievements
+<!-- ### 🏆 GitHub Achievements
 <p align="center">
   <a href="https://github.com/ghadje">
     <img src="https://github-profile-trophy.vercel.app/?username=ghadje&margin-w=5&theme=radical&background=FEC601" alt="GitHub Achievements" />
   </a>
-</p>
+</p> -->
 
 ---
 
