@@ -1,13 +1,13 @@
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! My name is Oussama (call me ghadje) and I'm a Talented Front-End Engineer, from Algeria</h2>
 
-## About me:
+<!-- ## About me:
 
 <p>
 I am motivated by a workplace in which my problem <b>solving skills and creativity can be exercised</b>. I have a <b>broad understanding of technology</b> which allows me to see the big picture and understand applications from the user interface and user experience perspective. I have the ability to <b>design and implement technical concepts</b> while adhering to high standards and project expectations. I have 5 year of experience in creating logical and innovative solutions. I'm interesting in <b>web applications</b>, <b>mobile applications</b> and <b>user experience</b>. I'm always eager to help others and can communicate effectively with both <b>technical</b> and <b>non-technical</b> audiences. I describe myself as someone who takes responsibility for his own <b>personal development</b>, someone who continually evaluating and upgrading his skills so that he stays at the cutting edge of <b>web and mobile development</b>. 
-</p>
+</p> -->
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4N3g1MjEwd3I0Yjc1bHliZ3pzbml1dDhzZ2xpNXJzMWFvbHoyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CReQIdQXfNX9JwKdFk/giphy.gif"  />
+<!-- <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4N3g1MjEwd3I0Yjc1bHliZ3pzbml1dDhzZ2xpNXJzMWFvbHoyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CReQIdQXfNX9JwKdFk/giphy.gif"  />
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -20,7 +20,7 @@ I am motivated by a workplace in which my problem <b>solving skills and creativi
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghadje/Ghadje/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghadje/Ghadje/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ghadje/Ghadje/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 
 <h2 style="color: #FEC601">🥇 Specialised in:</h2>
