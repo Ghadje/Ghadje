@@ -91,6 +91,7 @@
 - **[Cloc](https://github.com/ghadje/cloc)**: An educational app/game designed for Algerian high school students, combining learning with gamification.
 - **[Chifago](https://github.com/ghadje/chifago)**: A platform for booking home healthcare services, built with Flutter and Laravel.
 - **[Dariserve](https://github.com/ghadje/dariserve)**: A startup project I built for a client from scratch, Dariserve is a mobile app designed to connect users with workers for various services. The app includes features like **real-time chat**, **advanced search**, **profiles**, and **smooth animations** for an exceptional user experience. I also developed a **comprehensive dashboard** for managing the platform and a **landing website** to promote the app. This project involved full-stack development, from **UI/UX design** to **deployment**.
+
 ---
 
 <!-- ### 📈 GitHub Stats
@@ -103,7 +104,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghadje&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FEC601&fire=FEC601&currStreakLabel=FEC601" alt="GitHub Streak" />
 </p> -->
 
----
+<!-- --- -->
 
 <!-- ### 🏆 GitHub Achievements
 <p align="center">
@@ -112,7 +113,7 @@
   </a>
 </p> -->
 
----
+<!-- --- -->
 
 ### 🌱 Currently Learning
 - **Artificial Intelligence** and **Machine Learning**
