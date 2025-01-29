@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! I'm Oussama (aka Ghadje), a Senior Front-End Engineer from Algeria</h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! I'm Oussama (aka Ghadje), a Front-End Engineer from Algeria</h2>
 
 <!-- ### About Me -->
 <p>
