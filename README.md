@@ -2,7 +2,7 @@
 
 <!-- ### About Me -->
 <p>
-  I'm a seasoned <b>Front-End Engineer</b> with over 5 years of experience building scalable, user-centric web and mobile applications. I specialize in <b>React</b>, <b>Flutter</b>, and <b>Next.js</b>, and I have a proven track record of delivering high-quality solutions for startups and enterprises. I excel in leading development teams, architecting robust systems, and solving complex problems with innovative approaches.
+  I am an end-to-end product engineer and UI architect based in Algeria, dedicated to turning ambitious concepts into polished, production-grade applications. From architecting robust backends and cloud systems to crafting responsive, native-feeling mobile and web experiences, I combine architectural discipline with refined design sensibilities to help founders and teams launch products users love.
 </p>
 
 <!-- ### Connect with Me -->
